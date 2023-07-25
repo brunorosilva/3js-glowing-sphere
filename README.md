@@ -10,4 +10,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Demo
 
-Check it out [here] (https://brunorosilva.github.io/3js-glowing-sphere/)
+Check it out [here](https://brunorosilva.github.io/3js-glowing-sphere/)
