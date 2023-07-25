@@ -1,7 +1,7 @@
 {
-  "name": "glowing-sphere",
+  "name": "3js-glowing-sphere",
   "version": "1.0.0",
-  "homepage": "https://brunorosilva.github.io",
+  "homepage": "https://brunorosilva.github.io/3js-glowing-sphere",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
